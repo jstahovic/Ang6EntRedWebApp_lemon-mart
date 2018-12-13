@@ -1,2 +1,19 @@
 {
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    90,
+    140
+  ],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "typescriptHero.imports.insertSemicolons": false,
+  "typescriptHero.imports.multiLineWrapThreshold": 90,
+  "prettier.printWidth": 90,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5"
 }
